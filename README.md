@@ -36,10 +36,10 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://kicad.org/img/kicadlogo.svg" alt="KiCad" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Altium_logo.svg" alt="Altium" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OrCAD_logo.svg" alt="OrCAD" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" alt="Altium" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="OrCAD" width="50" height="50"/>
 </p>
 
 ---
