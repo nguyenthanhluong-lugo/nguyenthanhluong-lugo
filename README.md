@@ -1,18 +1,13 @@
-<h1 align="center">Hi , I'm Nguyễn Thanh Lượng (Lugo)</h1>
-<h3 align="center">👨‍💻A student exploring Electronics, AI, and Embedded Systems</h3>
-</a>
-</p>
----
-<h4 align="center">👨‍🎓 Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> 
-  </a>
-</p>
----
-  Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
-
+<h1 align="center">Hi 🫡, I'm Nguyễn Thanh Lượng (Lugo)</h1>
 <p align="center">
   <img src="https://i.imgur.com/9wv5bOC.jpeg" alt="Lugo Photo" width="150" style="border-radius: 50%;"/>
 </p>
+<h3 align="center"> A student exploring Electronics, AI, and Embedded Systems</h3>
+<h4 align="center"> Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> |  Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
 
+
+
+<h3 align="center"> Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/nguyenthanhluong-lugo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -49,8 +44,7 @@
 
 ---
 
-<h3 align="left">![WorkGIF](https://github.com/user-attachments/assets/72ff848b-a965-4a97-b0f8-e414eeeb97a4)
- Projects I'm working on:</h3>
+<h3 align="left"> Projects I'm working on:</h3>
 <ul>
   <li> Building a drone with optical fiber communication</li>
   <li> Face recognition system using Python & OpenCV</li>
@@ -69,7 +63,7 @@
 
 ---
 
-<h3 align="left"> GitHub Streak & Profile Views:</h3>
+<h3 align="left">📈 GitHub Streak & Profile Views:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhluong-lugo&theme=react" alt="GitHub Streak"/>
   <img src="https://komarev.com/ghpvc/?username=nguyenthanhluong-lugo&style=flat-square&color=blue" alt="Profile Views"/>
