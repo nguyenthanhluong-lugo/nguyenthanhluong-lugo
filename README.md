@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Nguyễn Thanh Lượng (Lugo)</h1>
-<h3 align="center">A student exploring Electronics, AI, and Embedded Systems</h3>
+<h3 align="center">👨‍💻A student exploring Electronics, AI, and Embedded Systems</h3>
+</a>
+</p>
 ---
-<h4 align="center"> Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> 
+<h4 align="center">👨‍🎓 Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> 
+  </a>
+</p>
 ---
   Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
 
@@ -45,7 +49,8 @@
 
 ---
 
-<h3 align="left"> Projects I'm working on:</h3>
+<h3 align="left">![WorkGIF](https://github.com/user-attachments/assets/72ff848b-a965-4a97-b0f8-e414eeeb97a4)
+ Projects I'm working on:</h3>
 <ul>
   <li> Building a drone with optical fiber communication</li>
   <li> Face recognition system using Python & OpenCV</li>
