@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Thanh Lượng (Lugo)</h1>
-<h3 align="center">A student exploring Electronics, AI, and Embedded Systems | Always curious</h3>
-<h4 align="center">🎓 Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> | 💼 Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
+<h1 align="center">Hi , I'm Nguyễn Thanh Lượng (Lugo)</h1>
+<h3 align="center">A student exploring Electronics, AI, and Embedded Systems</h3>
+---
+<h4 align="center"> Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> 
+---
+  Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
 
 <p align="center">
   <img src="https://i.imgur.com/9wv5bOC.jpeg" alt="Lugo Photo" width="150" style="border-radius: 50%;"/>
@@ -20,14 +23,14 @@
 
 ---
 
-<h3 align="left">💻 Programming Languages:</h3>
+<h3 align="left"> Programming Languages:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">🛠 Tools & Frameworks:</h3>
+<h3 align="left"> Tools & Frameworks:</h3>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
@@ -42,16 +45,16 @@
 
 ---
 
-<h3 align="left">🚀 Projects I'm working on:</h3>
+<h3 align="left"> Projects I'm working on:</h3>
 <ul>
-  <li>✈️ Building a drone with optical fiber communication</li>
-  <li>🖼 Face recognition system using Python & OpenCV</li>
-  <li>📡 Microcontroller-based sensor systems for electronics projects</li>
+  <li> Building a drone with optical fiber communication</li>
+  <li> Face recognition system using Python & OpenCV</li>
+  <li> Microcontroller-based sensor systems for electronics projects</li>
 </ul>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left"> GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenthanhluong-lugo&show_icons=true&theme=react" alt="GitHub Stats"/>
 </p>
@@ -61,7 +64,7 @@
 
 ---
 
-<h3 align="left">📈 GitHub Streak & Profile Views:</h3>
+<h3 align="left"> GitHub Streak & Profile Views:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhluong-lugo&theme=react" alt="GitHub Streak"/>
   <img src="https://komarev.com/ghpvc/?username=nguyenthanhluong-lugo&style=flat-square&color=blue" alt="Profile Views"/>
