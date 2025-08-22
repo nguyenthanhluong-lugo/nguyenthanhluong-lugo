@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Thanh Lượng (Lugo)</h1>
 <h3 align="center">A student exploring Electronics, AI, and Embedded Systems | Always curious</h3>
+<h4 align="center">🎓 Currently studying at <a href="https://www.tdtu.edu.vn/" target="_blank">TDTU</a> | 💼 Working at <a href="https://rustech.dev/" target="_blank">Rustech UAV Lab</a></h4>
 
 <p align="center">
   <img src="https://i.imgur.com/9wv5bOC.jpeg" alt="Lugo Photo" width="150" style="border-radius: 50%;"/>
@@ -24,9 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>  
-
----
+</p>
 
 <h3 align="left">🛠 Tools & Frameworks:</h3>
 <p align="left">
